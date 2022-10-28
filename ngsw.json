@@ -1,0 +1,147 @@
+{
+  "configVersion": 1,
+  "timestamp": 1666993297440,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/185.b97a6c4af12a8ae1.js",
+        "/384.c52256090bd7b3ad.js",
+        "/473.3f982ea0649486fb.js",
+        "/693.3d9a356a730298a6.js",
+        "/784.bc2a15131804d5f1.js",
+        "/854.1cc673e52ac40be5.js",
+        "/common.6d272de1f37ba62e.js",
+        "/index.html",
+        "/main.595e2ce6fef26632.js",
+        "/manifest.webmanifest",
+        "/polyfills.1824f0d98017ebce.js",
+        "/runtime.8aa4443bd3752988.js",
+        "/styles.2cd37e35b5e3414b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/angular.ico",
+        "/assets/favicon.ico",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/angular.jpg",
+        "/assets/img/SunNetPreVentas.jpg",
+        "/assets/img/SunNetPreVentas.svg",
+        "/assets/img/avatars/1.jpg",
+        "/assets/img/avatars/2.jpg",
+        "/assets/img/avatars/3.jpg",
+        "/assets/img/avatars/4.jpg",
+        "/assets/img/avatars/5.jpg",
+        "/assets/img/avatars/6.jpg",
+        "/assets/img/avatars/7.jpg",
+        "/assets/img/avatars/8.jpg",
+        "/assets/img/avatars/9.jpg",
+        "/assets/img/avatars/Sinavatars.jpg",
+        "/assets/img/brand/coreui-base-white.svg",
+        "/assets/img/brand/coreui-base.svg",
+        "/assets/img/brand/coreui-pro-angular-white.svg",
+        "/assets/img/brand/coreui-pro-angular.svg",
+        "/assets/img/brand/coreui-pro-base-white.svg",
+        "/assets/img/brand/coreui-pro-base.svg",
+        "/assets/img/brand/coreui-pro.svg",
+        "/assets/img/brand/coreui-signet-white.svg",
+        "/assets/img/brand/coreui-signet.svg",
+        "/assets/img/brand/logo.svg",
+        "/assets/img/brand/sygnet.svg",
+        "/assets/img/productos/software-punto-de-venta-celular.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/185.b97a6c4af12a8ae1.js": "ca1f6d10eda2807941e1fb1aea41fc7d8ff6b5cc",
+    "/384.c52256090bd7b3ad.js": "27b33632d8bc4904bcb9aa722fa0bfba339b8b28",
+    "/473.3f982ea0649486fb.js": "3f0e7b1eca5d41bbbe7e1871e355cbc59e50073a",
+    "/693.3d9a356a730298a6.js": "691262b2aa78b0170e4c8caa7340bd50a770f777",
+    "/784.bc2a15131804d5f1.js": "07a4cddefadc60b6ca53537341735457e54824fb",
+    "/854.1cc673e52ac40be5.js": "88d52e1ad4f69333dac6afdfa521f354d20fd659",
+    "/assets/angular.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/assets/favicon.ico": "404bf303b65c1a239977184c8b9360d059847635",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/angular.jpg": "c1200a85ff21d20c3887e5818ca8668facaba0a7",
+    "/assets/img/SunNetPreVentas.jpg": "1c96b29f45e5420c495538d428878f6db00b3508",
+    "/assets/img/SunNetPreVentas.svg": "5cbd85b37fe922ef98f5df176bf8482b35e04b8b",
+    "/assets/img/avatars/1.jpg": "c63395f874003b10fcd9cbf781fa0ad95f6e0c2d",
+    "/assets/img/avatars/2.jpg": "fa36f73b802882ec05f2de93625e455643600961",
+    "/assets/img/avatars/3.jpg": "aed4ebdd5c6a2826699b74f76d71fbe9d64120ea",
+    "/assets/img/avatars/4.jpg": "d3269c37a6a3205227a47146355fe43fce90e2e1",
+    "/assets/img/avatars/5.jpg": "75de18738bb23aae66399ec1bfacee9aa747372a",
+    "/assets/img/avatars/6.jpg": "4ec791284eb69db6d2c6e7af34cbd66b06b55040",
+    "/assets/img/avatars/7.jpg": "d6f1e3988c33e750c026c32d3a2aea36430638dc",
+    "/assets/img/avatars/8.jpg": "30afc389aca06c2be7ae2ff499f2c2c4e28abaa6",
+    "/assets/img/avatars/9.jpg": "9832b9d39d0be24797df99e8e588e097ed831cd5",
+    "/assets/img/avatars/Sinavatars.jpg": "f5fcf76ac9a50200b51b0f688023171224665bff",
+    "/assets/img/brand/coreui-base-white.svg": "9b143b6d3c01a0a807ef11f59f44f62afc694a68",
+    "/assets/img/brand/coreui-base.svg": "3b40d4127d82b31975604f554acd184804d4f8b0",
+    "/assets/img/brand/coreui-pro-angular-white.svg": "5bf9fb820b1481aa10b32ac09c77fbc06f6fd425",
+    "/assets/img/brand/coreui-pro-angular.svg": "82dade57cdc0b2a62097d3966eaf227587ac450a",
+    "/assets/img/brand/coreui-pro-base-white.svg": "3390dd2de81be0bb4a368ee2ac7f885c0b63370c",
+    "/assets/img/brand/coreui-pro-base.svg": "d9300ee8e5cc22a2be483bdd82933d33ca55b096",
+    "/assets/img/brand/coreui-pro.svg": "bbed3d8640e2cf47a293b0fe4713a89c39e93255",
+    "/assets/img/brand/coreui-signet-white.svg": "16862e9d7aaa2df56c746c41bc3fbd0426fe0525",
+    "/assets/img/brand/coreui-signet.svg": "21c4aea1825f4c690f1575c5381151fef54542bf",
+    "/assets/img/brand/logo.svg": "96fd3ca96b3ee35e510dde31f52eace8f19e059b",
+    "/assets/img/brand/sygnet.svg": "23169242b353f24d3f224e10485801ecb82bd96a",
+    "/assets/img/productos/software-punto-de-venta-celular.jpg": "b76eff0bdeabaaf4a868dad9ce2506ef6aff073c",
+    "/common.6d272de1f37ba62e.js": "f80e9dac433ffee2cccff419a5662b291a0fbd3c",
+    "/index.html": "4801a06e89e09d35a99cb17b869a232e2c4f623d",
+    "/main.595e2ce6fef26632.js": "e0fcc6fa9a7ba3fe64a1fabf8540ca27f1bfefdd",
+    "/manifest.webmanifest": "ec254a350ac9f54ee098e08536228731dc699122",
+    "/polyfills.1824f0d98017ebce.js": "2b710c4f54a531a5eb3ab25e78b20e3ed7c2fa48",
+    "/runtime.8aa4443bd3752988.js": "2e7534051253025037e1a5a766cd880223f6bc27",
+    "/styles.2cd37e35b5e3414b.css": "3adf5830dca584ac679319ddd70623b701d1d5ff"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
